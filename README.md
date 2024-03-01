@@ -33,7 +33,7 @@ While using our Application, in order to provide features of our Service, we may
 #### Use of Your Personal Data
 
 We may use your Personal Data for the following purposes:
-- **Image of Face**: We do not sell or use your data for training. We simply use this data to provide you with our service. This data is kept for as long as your account exists. All images and data associated with your account are deleted when your account is deleted. 
+- **Face Data**: The only face data we collect is when our users explicity take a picture and upload it to the app in order to have it scanned by the algorithm. We do not sell or use your data for training or to any third party. We simply use this data to provide you with our color theory analysis. This data is kept for as long as your account exists. All images and data associated with your account are deleted when your account is deleted.
 - **To provide and maintain our Service**, including to monitor the usage of our Service.
 - **To manage your Account**: to manage your registration as a user of the Service. The Personal Data you provide can give you access to different functionalities of the Service that are available to you as a registered user.
 - **For the performance of a contract**: the development, compliance, and undertaking of the purchase contract for the products, items, or services you have purchased or of any other contract with Us through the Service.
