@@ -1,4 +1,4 @@
-## Privacy Policy for Fitcheck
+## Privacy Policy for ColorMe
 
 This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the Service and tells you about your privacy rights and how the law protects you.
 
@@ -8,7 +8,7 @@ We use your personal data to provide and improve the Service. By using the Servi
 
 - **Account**: a unique account created for you to access our Service or parts of our Service.
 - **Affiliate**: an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
-- **Application**: Fitcheck, the software program provided by the Company.
+- **Application**: ColorMe, the software program provided by the Company.
 - **Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement)**: MindGarden C Corp, 2055 Limestone Rd STE 200-C, Wilmington, DE, New Castle, US, 19808.
 - **Country**: Delaware, United States.
 - **Device**: any device that can access the Service such as a computer, a cellphone, or a digital tablet.
@@ -89,4 +89,6 @@ The Company may disclose your Personal Data in the good faith belief that such a
 
 - Comply with a legal obligation
 - Protect and defend the rights or property of the Company
+
+Contact: team@mindgarden.io
 - Prevent or investigate possible
