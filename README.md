@@ -89,8 +89,15 @@ Under certain circumstances, the Company may be required to disclose your Person
 Other legal requirements
 The Company may disclose your Personal Data in the good faith belief that such action is necessary to:
 
+
 - Comply with a legal obligation
 - Protect and defend the rights or property of the Company
 
-Contact: team@mindgarden.io
+Contact: hey@whatcolors.app
 - Prevent or investigate possible
+
+### To Delete Your Account 
+- In order to delete your account
+- Email hey@whatcolors.app with the subject line: "delete account". In the body of your email, make sure to send us the email you signed up with.
+- Logout of the app
+- Your account will then be deleted within 24 hours by our team
