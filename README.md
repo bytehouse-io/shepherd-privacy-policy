@@ -32,8 +32,11 @@ While using our Application, in order to provide features of our Service, we may
 
 - **Information regarding your location**: We use this information to provide features of our Service, to improve and customize our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on your device. You can enable or disable access to this information at any time, through your Device settings.
 
-#### Use of Your Personal Data
+#### Information Collected
+- User email, name, profile image, and a unique ID.
+- This information is sent to Appsflyer and our analytics platform Mixpanel in order to help improve the experience of the app. 
 
+#### Use of Your Personal Data
 We may use your Personal Data for the following purposes:
 - **Face Data**: The only face data we collect is when our users explicity take a picture and upload it to the app in order to have it scanned by the algorithm. We do not sell or use your data for training or to any third party. We simply use this data to provide you with our color theory analysis. This data is kept for as long as your account exists. All images and data associated with your account are deleted when your account is deleted.
 - **To provide and maintain our Service**, including to monitor the usage of our Service.
