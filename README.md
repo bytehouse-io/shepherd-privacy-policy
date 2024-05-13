@@ -6,6 +6,10 @@ This Privacy Policy describes our policies and procedures on the collection, use
 
 We use your personal data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.
 
+### Support
+Contact: hey@whatcolors.app  
+
+
 ### Interpretation and Definitions
 
 - **Account**: a unique account created for you to access our Service or parts of our Service.
